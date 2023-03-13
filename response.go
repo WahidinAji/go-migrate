@@ -1,4 +1,4 @@
-package migrate
+package go_migrate
 
 type Response struct {
 	status  bool

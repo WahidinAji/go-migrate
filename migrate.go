@@ -1,4 +1,4 @@
-package migrate
+package go_migrate
 
 import (
 	"context"
